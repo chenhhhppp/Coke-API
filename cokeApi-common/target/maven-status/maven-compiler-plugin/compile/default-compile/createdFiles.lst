@@ -1,0 +1,12 @@
+com\chp\cokeapicommon\service\InnerUserInterfaceInfoService.class
+com\chp\cokeapicommon\model\enums\InterfaceInfoStatusEnum.class
+com\chp\cokeapicommon\model\entity\InterfaceInfo.class
+com\chp\cokeapicommon\model\enums\PostReviewStatusEnum.class
+com\chp\cokeapicommon\model\vo\PostVO.class
+com\chp\cokeapicommon\model\entity\UserInterfaceInfo.class
+com\chp\cokeapicommon\service\InnerUserService.class
+com\chp\cokeapicommon\model\vo\UserVO.class
+com\chp\cokeapicommon\model\enums\PostGenderEnum.class
+com\chp\cokeapicommon\service\InnerInterfaceInfoService.class
+com\chp\cokeapicommon\model\entity\User.class
+com\chp\cokeapicommon\model\entity\Post.class
