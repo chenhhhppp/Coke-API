@@ -7,7 +7,35 @@ Coke API 一个提供 API 接口供开发者调用的平台
 
 **语雀-（项目开发全流程）**：https://www.yuque.com/chenhaopeng0222/ahw7ei
 
-![](docs.image1.png)
+**主页（浏览接口）：**
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/image1.png)
+
+
+**接口管理：**
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/image2.png)
+
+
+**在线调试：**
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/image3.png)
+
+
+**可视化：**
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/image4.png)
+
+
+**使用自己开发的客户端 SDK，一行代码调用接口：**
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/imag5.png)
+
+
+**架构图**
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/imag6.png)
+
+
+**技术选型**
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/imag7.png)
+
+
+ 详情全在语雀，请访问语雀查看。
 
 
 
