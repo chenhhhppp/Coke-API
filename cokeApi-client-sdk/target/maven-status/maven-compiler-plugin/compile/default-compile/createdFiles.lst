@@ -1,0 +1,5 @@
+com\chp\cokeapiclientsdk\model\User.class
+com\chp\cokeapiclientsdk\utils\SignUtils.class
+com\chp\cokeapiclientsdk\client\cokeApiClient.class
+com\chp\cokeapiclientsdk\cokeApiClientConfig.class
+META-INF\spring-configuration-metadata.json

@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "chp.client",
+      "type": "com.chp.cokeapiclientsdk.cokeApiClientConfig",
+      "sourceType": "com.chp.cokeapiclientsdk.cokeApiClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "chp.client.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.chp.cokeapiclientsdk.cokeApiClientConfig"
+    },
+    {
+      "name": "chp.client.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.chp.cokeapiclientsdk.cokeApiClientConfig"
+    }
+  ],
+  "hints": []
+}
