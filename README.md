@@ -24,15 +24,15 @@ Coke API 一个提供 API 接口供开发者调用的平台
 
 
 **使用自己开发的客户端 SDK，一行代码调用接口：**
-![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/imag5.png)
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/image5.png)
 
 
 **架构图**
-![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/imag6.png)
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/image6.png)
 
 
 **技术选型**
-![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/imag7.png)
+![](https://github.com/chenhhhppp/Coke-API/blob/main/docs/image7.png)
 
 
  详情全在语雀，请访问语雀查看。
